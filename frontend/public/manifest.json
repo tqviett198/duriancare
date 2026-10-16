@@ -1,0 +1,16 @@
+{
+  "short_name": "DurianCare",
+  "name": "DurianCare — Sổ Vườn Sầu Riêng Thông Minh",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#064e3b",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait"
+}
